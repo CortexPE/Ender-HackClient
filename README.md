@@ -1,4 +1,4 @@
-# Ender-Hacklient
+# Ender-HackClient
 The Source Code of my Ender HackClient.
 
 You can copy parts of this mod or include in modpacks HOWEVER, 

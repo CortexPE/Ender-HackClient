@@ -3,7 +3,7 @@ All Rights Reserved
 
 Copying of this file without permissions, via any medium is strictly prohibited
 Proprietary and confidential
-Written by Ralph Boncales <mcpe4life62@gmail.com>, March 2016
+Written by CortexPE <mcpe4life62@gmail.com>, March 2016
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
